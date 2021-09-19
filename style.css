@@ -1,0 +1,15 @@
+
+            body {
+            	background-image:url("img1.jpg");
+                font-family: Arial, Sans-Serif; /* Тип шрифта */
+                color: ; /* Цвет текста */
+                font-size: 20px; /* Размер текста в пикселях */
+            }
+            .leto-text {
+            	text-align: center;
+            }
+            .main_title {
+            	font-size: 40px;
+            	background-color: #ADD8E6; 
+            }     
+           
